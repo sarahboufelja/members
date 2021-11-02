@@ -15,7 +15,7 @@
 - [Beazley Plc](https://github.com/turing-knowledge-graphs/members/tree/main/beazley)
 - [HSE Science and Research Centre](https://github.com/turing-knowledge-graphs/members/tree/main/HSE)
 - [University of Liverpool](https://github.com/turing-knowledge-graphs/members/tree/main/UniLiv)
-- List to be completed.
+- [Imperial College London]
 
 ---
 
