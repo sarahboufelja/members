@@ -1,4 +1,4 @@
-## Reserach focus:
+## Research focus:
 
 - Knowledge Representation and Learning 
 - Reinforcement Learning and Generalisation
